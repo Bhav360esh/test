@@ -1,0 +1,5 @@
+{{#user}
+Name: Bhavesh Kumar
+Skills: HTML, CSS, JS, Jquery, SQL(Basics), Python, C++
+Email: bhavesh185re@gmail.com
+{{/user}}
